@@ -1,0 +1,40 @@
+{
+    "name": "reedware/nova-icons",
+    "description": "Adds Vue components for various icons.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "icons",
+        "vue",
+        "font",
+        "awesome"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tyler Reed",
+            "email": "tylernathanreed@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "illuminate/support": ">=5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Reedware\\NovaIcons\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Reedware\\NovaIcons\\IconServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
