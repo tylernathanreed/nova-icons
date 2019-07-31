@@ -1,6 +1,6 @@
 {
     "name": "reedware/nova-icons",
-    "description": "Adds Vue components for various icons.",
+    "description": "Adds Vue components for various icons to Laravel Nova.",
     "keywords": [
         "laravel",
         "nova",
