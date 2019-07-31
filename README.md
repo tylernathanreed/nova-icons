@@ -15,7 +15,7 @@ composer require reedware/nova-icons
 
 ## Icons
 
-* Calendar (based on Font Awesome 5's ![far-calendar-alt](https://fontawesome.com/icons/calendar-alt?style=regular) icon)
-* Layer Group (based on Font Awesome 5's ![fas-layer-group](https://fontawesome.com/icons/layer-group?style=solid) icon)
-* Logout (based on Font Awesome 5's ![fas-sign-out-alt](https://fontawesome.com/icons/sign-out-alt?style=solid) icon)
+* Calendar (based on Font Awesome 5's [far-calendar-alt](https://fontawesome.com/icons/calendar-alt?style=regular) icon)
+* Layer Group (based on Font Awesome 5's [fas-layer-group](https://fontawesome.com/icons/layer-group?style=solid) icon)
+* Logout (based on Font Awesome 5's [fas-sign-out-alt](https://fontawesome.com/icons/sign-out-alt?style=solid) icon)
 * Sort (custom icon that uses a bi-directional arrow, but is similar to Font Awesome 5's ![fas-sort-amount-up-alt](https://fontawesome.com/icons/sort-amount-up-alt?style=solid) icon)
