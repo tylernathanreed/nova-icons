@@ -1,6 +1,7 @@
 Nova.booting((Vue, router, store) => {
 
     Vue.component('icon-calendar', require('./components/Calendar'));
+    Vue.component('icon-code', require('./components/Code'));
     Vue.component('icon-cogs', require('./components/Cogs'));
     Vue.component('icon-cubes', require('./components/Cubes'));
     Vue.component('icon-database', require('./components/Database'));

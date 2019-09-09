@@ -16,6 +16,7 @@ composer require reedware/nova-icons
 ## Icons
 
 * Calendar (based on Font Awesome 5's [far-calendar-alt](https://fontawesome.com/icons/calendar-alt?style=regular) icon)
+* Code (based on Font Awesome 5's [fas-code](https://fontawesome.com/icons/code?style=solid) icon)
 * Cogs (based on Font Awesome 5's [fas-cogs](https://fontawesome.com/icons/cogs?style=solid) icon)
 * Cubes (based on Font Awesome 5's [fas-cubes](https://fontawesome.com/icons/cubes?style=solid) icon)
 * Database (based on Font Awesome 5's [fas-database](https://fontawesome.com/icons/database?style=solid) icon)
