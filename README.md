@@ -23,5 +23,6 @@ composer require reedware/nova-icons
 * Layer Group (based on Font Awesome 5's [fas-layer-group](https://fontawesome.com/icons/layer-group?style=solid) icon)
 * Logout (based on Font Awesome 5's [fas-sign-out-alt](https://fontawesome.com/icons/sign-out-alt?style=solid) icon)
 * Magic (based on Font Awesome 5's [fas-magic](https://fontawesome.com/icons/magic?style=solid) icon)
+* Project Diagram (based on Font Awesome 5's [fas-project-diagram](https://fontawesome.com/icons/project-diagram?style=solid) icon)
 * Sort (custom icon that uses a bi-directional arrow, but is similar to Font Awesome 5's [fas-sort-amount-up-alt](https://fontawesome.com/icons/sort-amount-up-alt?style=solid) icon)
 * Tasks (based on Font Awesome 5's [fas-tasks](https://fontawesome.com/icons/tasks?style=solid) icon)
