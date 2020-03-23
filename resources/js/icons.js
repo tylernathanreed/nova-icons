@@ -9,6 +9,7 @@ Nova.booting((Vue, router, store) => {
     Vue.component('icon-logout', require('./components/Logout'));
     Vue.component('icon-magic', require('./components/Magic'));
     Vue.component('icon-project-diagram', require('./components/ProjectDiagram'));
+    Vue.component('icon-software', require('./components/Software'));
     Vue.component('icon-sort', require('./components/Sort'));
     Vue.component('icon-tasks', require('./components/Tasks'));
 
