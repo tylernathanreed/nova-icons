@@ -1,4 +1,8 @@
 # Nova Icons
+
+[![Latest Stable Version](https://poser.pugx.org/reedware/nova-icons/v/stable)](https://packagist.org/packages/reedware/nova-icons)
+[![Total Downloads](https://poser.pugx.org/reedware/nova-icons/downloads)](https://packagist.org/packages/reedware/nova-icons)
+
 Adds Vue components for various icons.
 
 --
